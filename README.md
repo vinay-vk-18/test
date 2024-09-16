@@ -1,2 +1,2 @@
 # test_npm
-Sample NPM project
+Sample py project
